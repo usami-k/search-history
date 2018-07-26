@@ -4,7 +4,7 @@
 
 ## Install
 
-With [fisherman]
+With [fisherman](https://fisherman.github.io)
 
 ```
 fisher usami-k/search-history
